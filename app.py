@@ -1,5 +1,5 @@
 import streamlit as st
-import matplotlib.pyplot as plt
+
 import plotly.express as px
 from utils.loader import load_csv
 from analysis.batting import batting_stats
